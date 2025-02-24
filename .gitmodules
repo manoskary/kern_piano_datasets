@@ -1,0 +1,18 @@
+[submodule "mozart-piano-sonatas"]
+	path = mozart-piano-sonatas
+	url = https://github.com/craigsapp/mozart-piano-sonatas
+[submodule "haydn-piano-sonatas"]
+	path = haydn-piano-sonatas
+	url = https://github.com/craigsapp/haydn-piano-sonatas
+[submodule "beethoven-piano-sonatas"]
+	path = beethoven-piano-sonatas
+	url = https://github.com/craigsapp/beethoven-piano-sonatas
+[submodule "scarlatti-keyboard-sonatas"]
+	path = scarlatti-keyboard-sonatas
+	url = https://github.com/craigsapp/scarlatti-keyboard-sonatas
+[submodule "chopin-mazurkas"]
+	path = chopin-mazurkas
+	url = https://github.com/craigsapp/chopin-mazurkas
+[submodule "scriabin"]
+	path = scriabin
+	url = https://github.com/craigsapp/scriabin
