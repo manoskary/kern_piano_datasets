@@ -16,3 +16,12 @@
 [submodule "scriabin"]
 	path = scriabin
 	url = https://github.com/craigsapp/scriabin
+[submodule "hummel-preludes"]
+	path = hummel-preludes
+	url = https://github.com/craigsapp/hummel-preludes
+[submodule "chopin-preludes"]
+	path = chopin-preludes
+	url = https://github.com/craigsapp/chopin-preludes
+[submodule "inventions"]
+	path = inventions
+	url = https://github.com/humdrum-tools/inventions
